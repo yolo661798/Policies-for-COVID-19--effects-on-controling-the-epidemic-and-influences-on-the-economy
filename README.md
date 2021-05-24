@@ -8,7 +8,7 @@ This project is for the study of the policies for COVID-19, in order to discuss 
 
 global confirmed and policy.ipynb shows the changes of the numbers of the countries which firstly introduces relevant policies.
 
-reactionTime.ipynb shows the time for different countries to take to introduce different countries.
+reactionTime.ipynb shows the time for different countries to take to introduce different policies.
 
 policyCountries.ipynb shows how the numbers of the countries taking C type and H type policies change.
 
